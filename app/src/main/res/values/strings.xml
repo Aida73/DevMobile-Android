@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GalsenShopApp</string>
+    <string name="home_button_text">Commencez ici</string>
+    <string name="title_activity_buttom_navigation">buttom_navigation</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_dashboard">Panier</string>
+    <string name="title_notifications">Profil</string>
+</resources>
